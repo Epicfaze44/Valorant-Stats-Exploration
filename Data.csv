@@ -1,0 +1,12 @@
+Map,Plant Site,Total Plants,Plant Preference %,Post-Plant Holds,Retakes/Defuses,Attacker Win %,Retake Success %
+Ascent,A,3970,57,2638,1332,66,34
+Ascent,B,3035,43,2163,872,71,29
+Bind,A,3222,54,2239,983,69,31
+Bind,B,2732,46,1868,864,68,32
+Haven,A,2771,43,1893,878,68,32
+Haven,B,1101,17,612,489,56,44
+Haven,C,2619,40,1853,766,71,29
+Icebox,A,9,41,8,1,89,11
+Icebox,B,13,59,7,6,54,46
+Split,A,2131,52,1443,688,68,32
+Split,B,1977,48,1426,551,72,28
